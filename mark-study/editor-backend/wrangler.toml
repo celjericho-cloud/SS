@@ -1,0 +1,19 @@
+name = "mark-lesson-editor"
+main = "worker.mjs"
+compatibility_date = "2026-10-30"
+
+[assets]
+directory = "../admin"
+binding = "ASSETS"
+run_worker_first = true
+
+[vars]
+GITHUB_OWNER = "celjericho-cloud"
+GITHUB_REPO = "SS"
+GITHUB_BRANCH = "main"
+DATA_PATH = "data.js"
+
+[[ratelimits]]
+name = "LOGIN_LIMITER"
+namespace_id = "672193"
+simple = { limit = 5, period = 60 }
