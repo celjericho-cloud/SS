@@ -1,6 +1,6 @@
 # The Gospel of Mark
 
-A teacher-first static Sunday school resource with approximately 10,000 words of expanded finished teaching material: **16 lessons, 102 verse-linked teaching insights and applications**, and locally bundled King James Version Scripture. Open `index.html` in a browser to use it immediately. There is no install, build, API key, or server requirement.
+A teacher-first static Sunday school resource with approximately 10,000 words of expanded finished teaching material: **17 lessons, 111 verse-linked teaching insights and applications**, and locally bundled King James Version Scripture. Open `index.html` in a browser to use it immediately. There is no install, build, API key, or server requirement.
 
 ## Publish on GitHub Pages
 
@@ -56,16 +56,20 @@ KJV text is bundled from [thiagobodruk/bible, `json/en_kjv.json`](https://github
 
 ## Verification
 
-Checked in Chrome across all lessons at 320, 390, 768, and 1280 px widths, with additional 1440 px desktop review. All 16 lessons render without JavaScript errors; all 102 teaching points link to existing, displayed Scripture. Checks cover both directions of verse selection, chapter filtering, search, mobile menu navigation, theme, and horizontal overflow. Also reviewed light, dark, and mobile screenshots, checked collapse/reveal behavior, and verified that print styles include all filtered and collapsed notes. The site opens directly from the filesystem, demonstrating that there are no runtime network dependencies.
+Checked in Chrome across all lessons at 320, 390, 768, and 1280 px widths, with additional 1440 px desktop review. All 17 lessons render without JavaScript errors; all 111 teaching points link to existing, displayed Scripture. Checks cover both directions of verse selection, chapter filtering, search, mobile menu navigation, theme, and horizontal overflow. Also reviewed light, dark, and mobile screenshots, checked collapse/reveal behavior, and verified that print styles include all filtered and collapsed notes. The site opens directly from the filesystem, demonstrating that there are no runtime network dependencies.
 
 ## Teacher edition layout
 
-Expanded teaching notes are the primary column and the first content on mobile. Scripture is a narrower, independently scrollable reference column on larger screens. Section links jump to teaching notes, verse connections, or Scripture. Search includes the expanded teaching material. All 16 lessons have expanded outlines drawn from their completed sections.
+Expanded teaching notes are the primary column and the first content on mobile. Scripture is a narrower, independently scrollable reference column on larger screens. Section links jump to teaching notes, verse connections, or Scripture. Search includes the expanded teaching material. All 17 lessons have expanded outlines drawn from their completed sections.
 
 ## Editorial review
 
-All 16 expanded lessons have received a complete editorial read-through. PDF sentence fragments were rejoined, wording and grammar were cleaned up, and section headings were explicitly assigned rather than inferred from sentence length. Supporting points use semantic bullet lists; teaching sections, background subheadings, discussion prompts, and applications have separate typography. Known reference errors and the overview’s incorrect kinship wording were corrected. Camp-specific time references in the Mark 12 application were adapted for classroom use. The KJV verse text is unchanged.
+All 17 expanded lessons have received a complete editorial read-through. PDF sentence fragments were rejoined, wording and grammar were cleaned up, and section headings were explicitly assigned rather than inferred from sentence length. Supporting points use semantic bullet lists; teaching sections, background subheadings, discussion prompts, and applications have separate typography. Known reference errors and the overview’s incorrect kinship wording were corrected. Camp-specific time references in the Mark 12 application were adapted for classroom use. The KJV verse text is unchanged.
 
 ## Visual editing
 
 Open `admin/index.html` for the visual editor. It supports editing every existing lesson, structured formatting, preview, draft backups, and exporting an updated `data.js` for manual upload. For password-protected online publishing directly to `celjericho-cloud/SS`, deploy the included backend using **[EDITOR-SETUP.md](EDITOR-SETUP.md)**. The backend has not yet been deployed and needs your Cloudflare account and private GitHub token; GitHub Pages alone cannot run it.
+
+## New lesson: Feeding of the 5,000
+
+Added from the seven-page `Mark 6-30-44.pdf` on November 2, 2026. Its complete teaching flow has been adapted into an expanded bullet outline with three main sections, discussion prompts, application callouts, and a closing Psalm 23 reading. It appears after the death of John the Baptist and before Mark 12. The lesson has nine verse connections and KJV Scripture for Mark 6:30–44; its Old Testament background and closing references are bundled locally.

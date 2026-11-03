@@ -4117,6 +4117,454 @@ window.STUDY = {
       ]
     },
     {
+      "id": "feeding",
+      "title": "Feeding of the 5,000",
+      "passage": "Mark 6:30-44",
+      "pages": "1–7",
+      "sourceTitle": "Mark 6:30–44 lesson",
+      "summary": "Jesus is the compassionate Shepherd who is sufficient to meet the needs of His people.",
+      "context": "The Twelve return from their mission and report to Jesus, completing the Markan sandwich surrounding John the Baptist’s death. Jesus invites them to rest, but a large crowd arrives ahead of them. The lesson connects Jesus’ description of sheep without a shepherd with Numbers 27:17 and Ezekiel 34, and closes with Psalm 23.",
+      "refs": [
+        "Numbers 27:17",
+        "Ezekiel 34:1-16",
+        "Matthew 14:21",
+        "Psalm 23:1-6"
+      ],
+      "points": [
+        {
+          "kind": "insight",
+          "title": "Jesus recognizes the need for rest",
+          "verses": [
+            "Mark 6:30",
+            "Mark 6:31",
+            "Mark 6:32"
+          ],
+          "text": "Jesus receives the disciples’ report and invites them away from constant ministry activity to rest with Him."
+        },
+        {
+          "kind": "application",
+          "title": "Rest is not inherently unspiritual",
+          "verses": [
+            "Mark 6:30",
+            "Mark 6:31",
+            "Mark 6:32"
+          ],
+          "text": "After demanding work and ministry, it is appropriate to withdraw and recuperate. This is a supporting application, rather than the story’s central emphasis."
+        },
+        {
+          "kind": "insight",
+          "title": "The compassionate Shepherd sees their true need",
+          "verses": [
+            "Mark 6:33",
+            "Mark 6:34"
+          ],
+          "text": "Jesus sees sheep without a shepherd, is moved with compassion, and teaches them. Numbers 27:17 and Ezekiel 34 supply the Old Testament background for this picture."
+        },
+        {
+          "kind": "application",
+          "title": "See the person behind the interruption",
+          "verses": [
+            "Mark 6:33",
+            "Mark 6:34"
+          ],
+          "text": "Look beyond inconvenience to people’s needs. Before drawing the call to imitate His compassion, recognize who Jesus is: the compassionate Shepherd."
+        },
+        {
+          "kind": "insight",
+          "title": "The disciples’ resources are inadequate",
+          "verses": [
+            "Mark 6:35",
+            "Mark 6:36",
+            "Mark 6:37",
+            "Mark 6:38"
+          ],
+          "text": "Five loaves and two fish cannot meet this enormous need. The disciples calculate the cost but fail to reckon with the One standing before them."
+        },
+        {
+          "kind": "application",
+          "title": "Inadequacy should lead to dependence",
+          "verses": [
+            "Mark 6:35",
+            "Mark 6:36",
+            "Mark 6:37",
+            "Mark 6:38"
+          ],
+          "text": "“I cannot do this” does not mean “God cannot do this.” Pray early in dependence upon God, rather than treating prayer as a last resort. The passage does not promise our preferred outcome in every difficulty."
+        },
+        {
+          "kind": "insight",
+          "title": "Jesus supplies what the disciples distribute",
+          "verses": [
+            "Mark 6:39",
+            "Mark 6:40",
+            "Mark 6:41"
+          ],
+          "text": "The disciples cannot produce the needed food. Jesus blesses, breaks, and gives the loaves so they can distribute His provision."
+        },
+        {
+          "kind": "insight",
+          "title": "All eat and are filled",
+          "verses": [
+            "Mark 6:42",
+            "Mark 6:43",
+            "Mark 6:44"
+          ],
+          "text": "Everyone is satisfied, twelve baskets remain, and about five thousand men have eaten. The needy crowd and inadequate disciples reveal the sufficiency of the Shepherd."
+        },
+        {
+          "kind": "application",
+          "title": "Place your confidence and satisfaction in Christ",
+          "verses": [
+            "Mark 6:34",
+            "Mark 6:35",
+            "Mark 6:36",
+            "Mark 6:37",
+            "Mark 6:38",
+            "Mark 6:39",
+            "Mark 6:40",
+            "Mark 6:41",
+            "Mark 6:42",
+            "Mark 6:43",
+            "Mark 6:44"
+          ],
+          "text": "Christ Himself is enough. This is not a promise of freedom from suffering or the fulfillment of every desire; trust Him for what is truly needed to accomplish His purposes. Close by reading Psalm 23."
+        }
+      ],
+      "scripture": [
+        "Mark 6:30",
+        "Mark 6:31",
+        "Mark 6:32",
+        "Mark 6:33",
+        "Mark 6:34",
+        "Mark 6:35",
+        "Mark 6:36",
+        "Mark 6:37",
+        "Mark 6:38",
+        "Mark 6:39",
+        "Mark 6:40",
+        "Mark 6:41",
+        "Mark 6:42",
+        "Mark 6:43",
+        "Mark 6:44"
+      ],
+      "teachingBlocks": [
+        {
+          "type": "heading",
+          "text": "Opening: Look beyond a familiar miracle"
+        },
+        {
+          "type": "bullet",
+          "text": "The feeding of the 5,000 is recorded in all four Gospels. Many students will already know the story from Sunday school, Bible classes, and sermons."
+        },
+        {
+          "type": "bullet",
+          "text": "Do not let familiarity keep you from recognizing the powerful truth Mark is teaching about Jesus."
+        },
+        {
+          "type": "question",
+          "text": "Read Mark 6:30–44. What does the way Mark tells this story show us about Jesus?"
+        },
+        {
+          "type": "bullet",
+          "text": "Verse 30 completes the Markan sandwich begun with the sending of the Twelve: Jesus sends the disciples, Mark recounts John the Baptist’s death, and the disciples return to report what they have done and taught."
+        },
+        {
+          "type": "bullet",
+          "text": "The mission appears to have had a considerable impact: news about Jesus reached Herod (6:14), and the crowds in verse 31 leave Jesus and the disciples without time even to eat. The success of the mission is an inference from these details."
+        },
+        {
+          "type": "heading",
+          "text": "1. A retreat interrupted by a needy multitude — Mark 6:30–34"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Jesus recognizes the disciples’ need for rest"
+        },
+        {
+          "type": "bullet",
+          "text": "The disciples have been preaching, traveling, healing, and ministering. They return from their work to a constant stream of people."
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus invites them to withdraw with Him to a deserted place and “rest a while.” He recognizes both their work and their need to recuperate."
+        },
+        {
+          "type": "application",
+          "text": "There is nothing inherently unspiritual about rest. After a busy period of work and ministry, it is appropriate to withdraw, recuperate, and rest. This is a supporting application rather than the passage’s main point."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "The crowd arrives before them"
+        },
+        {
+          "type": "bullet",
+          "text": "Mark emphasizes Jesus’ enormous popularity: “many knew him,” people came “out of all cities,” and Jesus saw “much people.”"
+        },
+        {
+          "type": "bullet",
+          "text": "The people recognize where Jesus and the disciples are going, run there on foot, and arrive ahead of the boat."
+        },
+        {
+          "type": "bullet",
+          "text": "From the disciples’ perspective, the promised retreat now meets another massive crowd. Mark does not tell us how they felt; distinguish our imagined reaction from what the text actually says."
+        },
+        {
+          "type": "question",
+          "text": "How would we have responded? Would we see these people mainly as an interruption? Would we resent the extra work or the disruption of our plans?"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Jesus sees sheep without a shepherd"
+        },
+        {
+          "type": "bullet",
+          "text": "Verse 34 is a key to the whole passage. Jesus does not merely see an interruption; He sees needy people “as sheep not having a shepherd.”"
+        },
+        {
+          "type": "bullet",
+          "text": "Their true condition moves Him with compassion. He sees their need and cares for them."
+        },
+        {
+          "type": "bullet",
+          "text": "Numbers 27:17 records Moses’ request for a leader so that the LORD’s congregation would not be like sheep without a shepherd."
+        },
+        {
+          "type": "bullet",
+          "text": "Ezekiel 34 condemns Israel’s unfaithful shepherds for failing to care for God’s flock. God promises that He Himself will seek, feed, and care for His sheep."
+        },
+        {
+          "type": "bullet",
+          "text": "Against that background, Mark presents Jesus caring for a shepherdless multitude with the compassion of a Shepherd."
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus first “began to teach them many things.” Before addressing physical hunger, He gives truth to people who need a Shepherd."
+        },
+        {
+          "type": "application",
+          "text": "Learn to see the person behind the interruption and the need behind the inconvenience. We often see people first in terms of the work or disruption they bring."
+        },
+        {
+          "type": "application",
+          "text": "The main emphasis is more than “Be compassionate like Jesus.” Before we imitate the Shepherd, we must see the Shepherd: helpless sheep are being cared for by Jesus Himself."
+        },
+        {
+          "type": "heading",
+          "text": "2. A great need and inadequate disciples — Mark 6:35–38"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "A practical solution meets a startling command"
+        },
+        {
+          "type": "bullet",
+          "text": "It is late, the location is deserted, and the crowd needs food. The disciples propose sending the people to nearby villages and countryside to buy food."
+        },
+        {
+          "type": "bullet",
+          "text": "Their solution makes sense from a practical perspective, but Jesus tells them, “Give ye them to eat.”"
+        },
+        {
+          "type": "bullet",
+          "text": "The disciples ask about buying two hundred pennyworth of bread—roughly eight months’ wages for an ordinary laborer. Their question stresses how expensive feeding the crowd would be."
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus asks what they actually have. They find five loaves and two fish: completely inadequate resources for thousands of people."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "They calculate without reckoning with Jesus"
+        },
+        {
+          "type": "bullet",
+          "text": "These disciples have just returned from a mission in which they preached repentance, cast out demons, and healed the sick."
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus had sent them without bread or money, requiring them to depend upon God’s provision. Yet a new difficulty sends them back to calculating only what their own resources can accomplish."
+        },
+        {
+          "type": "bullet",
+          "text": "Their arithmetic is not wrong: five loaves and two fish really are insufficient. The problem is that they account for everything except the One standing before them—Jesus."
+        },
+        {
+          "type": "question",
+          "text": "When a new problem arises, do we begin with our intelligence, abilities, money, and resources without first looking to God? Do we pray only after exhausting every other solution?"
+        },
+        {
+          "type": "application",
+          "text": "This story does not promise that Jesus will remove every problem or miraculously provide whatever outcome we want. It challenges our tendency to forget His power and past provision when facing a new need."
+        },
+        {
+          "type": "application",
+          "text": "Let prayer be an early response of dependence upon our Father, rather than a last resort after every other resource fails."
+        },
+        {
+          "type": "bullet",
+          "text": "Recognizing inadequacy is not the problem. It can be an important step in learning dependence upon God."
+        },
+        {
+          "type": "bullet",
+          "text": "There is a great difference between “I cannot do this” and “Therefore God cannot do this.” The disciples rightly recognize their insufficiency but fail to reckon with God standing before them."
+        },
+        {
+          "type": "bullet",
+          "text": "Their resources were insufficient. Their Shepherd was not."
+        },
+        {
+          "type": "heading",
+          "text": "3. The sufficiency of the compassionate Shepherd — Mark 6:39–44"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Jesus provides through the disciples"
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus seats the people on the grass in groups, takes the five loaves and two fish, looks up to heaven, blesses the food, breaks the loaves, and gives them to the disciples to distribute."
+        },
+        {
+          "type": "bullet",
+          "text": "He miraculously multiplies what was inadequate and meets the need of the entire crowd."
+        },
+        {
+          "type": "bullet",
+          "text": "Jesus works through the disciples to fulfill the command He gave them: “Give ye them to eat.” They cannot produce what is needed, but He places His provision in their hands to distribute."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Everyone eats and is satisfied"
+        },
+        {
+          "type": "bullet",
+          "text": "Verse 42 stresses that they “did all eat, and were filled.” Jesus gives more than a few crumbs; everyone eats until satisfied."
+        },
+        {
+          "type": "bullet",
+          "text": "The disciples collect twelve baskets full of leftovers. His provision exceeds the crowd’s need."
+        },
+        {
+          "type": "bullet",
+          "text": "Mark reports about five thousand men. Matthew 14:21 adds “beside women and children,” showing that the actual crowd was larger."
+        },
+        {
+          "type": "bullet",
+          "text": "Return to verse 34: Jesus saw shepherdless sheep. Throughout this passage, He sees them, has compassion on them, teaches them, feeds them, and satisfies them."
+        },
+        {
+          "type": "bullet",
+          "text": "The people are needy and the disciples are inadequate, but the Shepherd is sufficient. The needs of the sheep exceed the disciples’ resources; they do not exceed the Shepherd’s sufficiency."
+        },
+        {
+          "type": "application",
+          "text": "If you have Jesus, you have enough. This does not mean that Christians will never be hungry, poor, sick, disappointed, or hurt. Jesus Himself taught that His followers would experience suffering."
+        },
+        {
+          "type": "application",
+          "text": "The Christian life is not about discovering sufficiency within ourselves. Recognize your inadequacy and depend upon Christ. Our deepest need calls for greater confidence in our Shepherd, rather than greater confidence in ourselves."
+        },
+        {
+          "type": "heading",
+          "text": "Closing: Where are you looking for satisfaction?"
+        },
+        {
+          "type": "question",
+          "text": "Are we seeking in money, popularity, success, possessions, relationships, or recognition what can ultimately be found only in Christ?"
+        },
+        {
+          "type": "bullet",
+          "text": "The world’s promises of satisfaction are temporary: more money becomes normal, popularity leaves us wanting more recognition, possessions grow old, and success gives way to another ambition."
+        },
+        {
+          "type": "bullet",
+          "text": "None of these things can carry the weight of being our ultimate source of satisfaction."
+        },
+        {
+          "type": "application",
+          "text": "Christ’s sufficiency does not mean He gives us everything we want. Christ Himself is enough, and we can trust Him to provide everything we truly need to accomplish His purposes for us."
+        },
+        {
+          "type": "bullet",
+          "text": "Mark shows shepherdless people sitting on green grass while their compassionate Shepherd feeds and satisfies them. Psalm 23 gives fitting words for belonging to that Shepherd: “The LORD is my shepherd; I shall not want.”"
+        },
+        {
+          "type": "question",
+          "text": "Read Psalm 23 together. What does it mean to belong to a sufficient Shepherd?"
+        }
+      ],
+      "manuscript": [
+        "Opening: Look beyond a familiar miracle",
+        "The feeding of the 5,000 is recorded in all four Gospels. Many students will already know the story from Sunday school, Bible classes, and sermons.",
+        "Do not let familiarity keep you from recognizing the powerful truth Mark is teaching about Jesus.",
+        "Read Mark 6:30–44. What does the way Mark tells this story show us about Jesus?",
+        "Verse 30 completes the Markan sandwich begun with the sending of the Twelve: Jesus sends the disciples, Mark recounts John the Baptist’s death, and the disciples return to report what they have done and taught.",
+        "The mission appears to have had a considerable impact: news about Jesus reached Herod (6:14), and the crowds in verse 31 leave Jesus and the disciples without time even to eat. The success of the mission is an inference from these details.",
+        "1. A retreat interrupted by a needy multitude — Mark 6:30–34",
+        "Jesus recognizes the disciples’ need for rest",
+        "The disciples have been preaching, traveling, healing, and ministering. They return from their work to a constant stream of people.",
+        "Jesus invites them to withdraw with Him to a deserted place and “rest a while.” He recognizes both their work and their need to recuperate.",
+        "There is nothing inherently unspiritual about rest. After a busy period of work and ministry, it is appropriate to withdraw, recuperate, and rest. This is a supporting application rather than the passage’s main point.",
+        "The crowd arrives before them",
+        "Mark emphasizes Jesus’ enormous popularity: “many knew him,” people came “out of all cities,” and Jesus saw “much people.”",
+        "The people recognize where Jesus and the disciples are going, run there on foot, and arrive ahead of the boat.",
+        "From the disciples’ perspective, the promised retreat now meets another massive crowd. Mark does not tell us how they felt; distinguish our imagined reaction from what the text actually says.",
+        "How would we have responded? Would we see these people mainly as an interruption? Would we resent the extra work or the disruption of our plans?",
+        "Jesus sees sheep without a shepherd",
+        "Verse 34 is a key to the whole passage. Jesus does not merely see an interruption; He sees needy people “as sheep not having a shepherd.”",
+        "Their true condition moves Him with compassion. He sees their need and cares for them.",
+        "Numbers 27:17 records Moses’ request for a leader so that the LORD’s congregation would not be like sheep without a shepherd.",
+        "Ezekiel 34 condemns Israel’s unfaithful shepherds for failing to care for God’s flock. God promises that He Himself will seek, feed, and care for His sheep.",
+        "Against that background, Mark presents Jesus caring for a shepherdless multitude with the compassion of a Shepherd.",
+        "Jesus first “began to teach them many things.” Before addressing physical hunger, He gives truth to people who need a Shepherd.",
+        "Learn to see the person behind the interruption and the need behind the inconvenience. We often see people first in terms of the work or disruption they bring.",
+        "The main emphasis is more than “Be compassionate like Jesus.” Before we imitate the Shepherd, we must see the Shepherd: helpless sheep are being cared for by Jesus Himself.",
+        "2. A great need and inadequate disciples — Mark 6:35–38",
+        "A practical solution meets a startling command",
+        "It is late, the location is deserted, and the crowd needs food. The disciples propose sending the people to nearby villages and countryside to buy food.",
+        "Their solution makes sense from a practical perspective, but Jesus tells them, “Give ye them to eat.”",
+        "The disciples ask about buying two hundred pennyworth of bread—roughly eight months’ wages for an ordinary laborer. Their question stresses how expensive feeding the crowd would be.",
+        "Jesus asks what they actually have. They find five loaves and two fish: completely inadequate resources for thousands of people.",
+        "They calculate without reckoning with Jesus",
+        "These disciples have just returned from a mission in which they preached repentance, cast out demons, and healed the sick.",
+        "Jesus had sent them without bread or money, requiring them to depend upon God’s provision. Yet a new difficulty sends them back to calculating only what their own resources can accomplish.",
+        "Their arithmetic is not wrong: five loaves and two fish really are insufficient. The problem is that they account for everything except the One standing before them—Jesus.",
+        "When a new problem arises, do we begin with our intelligence, abilities, money, and resources without first looking to God? Do we pray only after exhausting every other solution?",
+        "This story does not promise that Jesus will remove every problem or miraculously provide whatever outcome we want. It challenges our tendency to forget His power and past provision when facing a new need.",
+        "Let prayer be an early response of dependence upon our Father, rather than a last resort after every other resource fails.",
+        "Recognizing inadequacy is not the problem. It can be an important step in learning dependence upon God.",
+        "There is a great difference between “I cannot do this” and “Therefore God cannot do this.” The disciples rightly recognize their insufficiency but fail to reckon with God standing before them.",
+        "Their resources were insufficient. Their Shepherd was not.",
+        "3. The sufficiency of the compassionate Shepherd — Mark 6:39–44",
+        "Jesus provides through the disciples",
+        "Jesus seats the people on the grass in groups, takes the five loaves and two fish, looks up to heaven, blesses the food, breaks the loaves, and gives them to the disciples to distribute.",
+        "He miraculously multiplies what was inadequate and meets the need of the entire crowd.",
+        "Jesus works through the disciples to fulfill the command He gave them: “Give ye them to eat.” They cannot produce what is needed, but He places His provision in their hands to distribute.",
+        "Everyone eats and is satisfied",
+        "Verse 42 stresses that they “did all eat, and were filled.” Jesus gives more than a few crumbs; everyone eats until satisfied.",
+        "The disciples collect twelve baskets full of leftovers. His provision exceeds the crowd’s need.",
+        "Mark reports about five thousand men. Matthew 14:21 adds “beside women and children,” showing that the actual crowd was larger.",
+        "Return to verse 34: Jesus saw shepherdless sheep. Throughout this passage, He sees them, has compassion on them, teaches them, feeds them, and satisfies them.",
+        "The people are needy and the disciples are inadequate, but the Shepherd is sufficient. The needs of the sheep exceed the disciples’ resources; they do not exceed the Shepherd’s sufficiency.",
+        "If you have Jesus, you have enough. This does not mean that Christians will never be hungry, poor, sick, disappointed, or hurt. Jesus Himself taught that His followers would experience suffering.",
+        "The Christian life is not about discovering sufficiency within ourselves. Recognize your inadequacy and depend upon Christ. Our deepest need calls for greater confidence in our Shepherd, rather than greater confidence in ourselves.",
+        "Closing: Where are you looking for satisfaction?",
+        "Are we seeking in money, popularity, success, possessions, relationships, or recognition what can ultimately be found only in Christ?",
+        "The world’s promises of satisfaction are temporary: more money becomes normal, popularity leaves us wanting more recognition, possessions grow old, and success gives way to another ambition.",
+        "None of these things can carry the weight of being our ultimate source of satisfaction.",
+        "Christ’s sufficiency does not mean He gives us everything we want. Christ Himself is enough, and we can trust Him to provide everything we truly need to accomplish His purposes for us.",
+        "Mark shows shepherdless people sitting on green grass while their compassionate Shepherd feeds and satisfies them. Psalm 23 gives fitting words for belonging to that Shepherd: “The LORD is my shepherd; I shall not want.”",
+        "Read Psalm 23 together. What does it mean to belong to a sufficient Shepherd?"
+      ]
+    },
+    {
       "id": "rebellion",
       "title": "How God Deals with Rebellion",
       "passage": "Mark 12:1-12",
@@ -4916,6 +5364,44 @@ window.STUDY = {
     "Isaiah 5:7": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
     "2 Peter 1:3": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
     "Psalm 118:22": "The stone which the builders refused is become the head stone of the corner.",
-    "Psalm 118:23": "This is the LORD’s doing; it is marvellous in our eyes. …: Heb. from the LORD"
+    "Psalm 118:23": "This is the LORD’s doing; it is marvellous in our eyes. …: Heb. from the LORD",
+    "Mark 6:31": "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.",
+    "Mark 6:32": "And they departed into a desert place by ship privately.",
+    "Mark 6:33": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.",
+    "Mark 6:34": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.",
+    "Mark 6:35": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:",
+    "Mark 6:36": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.",
+    "Mark 6:37": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
+    "Mark 6:38": "He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.",
+    "Mark 6:39": "And he commanded them to make all sit down by companies upon the green grass.",
+    "Mark 6:40": "And they sat down in ranks, by hundreds, and by fifties.",
+    "Mark 6:41": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all.",
+    "Mark 6:42": "And they did all eat, and were filled.",
+    "Mark 6:43": "And they took up twelve baskets full of the fragments, and of the fishes.",
+    "Mark 6:44": "And they that did eat of the loaves were about five thousand men.",
+    "Numbers 27:17": "Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd.",
+    "Ezekiel 34:1": "And the word of the LORD came unto me, saying,",
+    "Ezekiel 34:2": "Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?",
+    "Ezekiel 34:3": "Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock.",
+    "Ezekiel 34:4": "The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.",
+    "Ezekiel 34:5": "And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.",
+    "Ezekiel 34:6": "My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them .",
+    "Ezekiel 34:7": "Therefore, ye shepherds, hear the word of the LORD ;",
+    "Ezekiel 34:8": "As I live, saith the Lord GOD , surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;",
+    "Ezekiel 34:9": "Therefore, O ye shepherds, hear the word of the LORD ;",
+    "Ezekiel 34:10": "Thus saith the Lord GOD ; Behold, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.",
+    "Ezekiel 34:11": "For thus saith the Lord GOD ; Behold, I, even I, will both search my sheep, and seek them out.",
+    "Ezekiel 34:12": "As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.",
+    "Ezekiel 34:13": "And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.",
+    "Ezekiel 34:14": "I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and in a fat pasture shall they feed upon the mountains of Israel.",
+    "Ezekiel 34:15": "I will feed my flock, and I will cause them to lie down, saith the Lord GOD .",
+    "Ezekiel 34:16": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.",
+    "Matthew 14:21": "And they that had eaten were about five thousand men, beside women and children.",
+    "Psalm 23:1": "The LORD is my shepherd; I shall not want.",
+    "Psalm 23:2": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+    "Psalm 23:3": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+    "Psalm 23:4": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+    "Psalm 23:5": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+    "Psalm 23:6": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
   }
 };
